@@ -1,0 +1,124 @@
+body{
+    background-color: #f4eeed;
+    margin-top: 0px;
+   margin-block-end: 0px;
+    margin-right: 10px;
+    margin-block-end: 0px;
+}
+
+
+h1,h2,h3{
+    color: #999b84;
+    text-align: center;
+    font-family: 'Yusei Magic', sans-serif;
+}
+p{
+    color: #caa091;
+    font-family: 'Yusei Magic', sans-serif;
+}
+h1:hover,h2:hover,h3:hover,p:hover{
+    color: #8785a2;
+}
+
+
+.IU{
+    float: right;
+  
+    height: 400px;
+    margin-top: 70px;
+    margin-right: 8px;
+    margin-left: 8px;
+    transition: all 1s;
+}
+.IU:hover{
+    transform: scale(1.1);
+}
+
+.Signature_of_IU{
+    width: 180px;
+    height:90px ;
+    margin: 10px;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #efd9d1;
+    border-width: 5px;
+    width: 5%;
+}
+
+
+table,tr,td{
+   border:1px solid#e6b19e; 
+   color: #64442d;
+   font-family: 'Yusei Magic', sans-serif;
+}
+table{
+    border-collapse:collapse;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+    margin-right: 0px;
+}
+td{
+    height: 30px;
+    vertical-align: bottom;  
+}
+th{
+    text-align:center;
+    color: #999b84;
+    font-family: 'Yusei Magic', sans-serif;
+}
+th,td{
+    padding: 3px;
+}
+
+
+.DivMenu{
+    background-color:#efd9d1;
+    margin-left:0px;
+    padding-top: 0px;
+    padding-left: 20px;
+    position: fixed;
+    top:0px;
+    width: 100%;
+
+}
+ .Menu{
+     float:right;
+    list-style-type: none;
+    margin: 0px;
+    padding-right: 50px;
+  
+  }
+  .Menu a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-family: 'Yusei Magic', sans-serif;
+ }
+  .Menu a:hover{
+    background-color: #64442d;
+
+  }
+ .MMenu{
+     background-color: #efd9d1;
+ }
+ .cont{
+     float: left;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     padding-bottom: 0px; 
+     font-family: 'Yusei Magic', sans-serif;
+ } 
+
+  .cont a {
+     text-decoration: none; 
+    color: azure;
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+
